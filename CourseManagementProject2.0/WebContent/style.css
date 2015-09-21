@@ -1,0 +1,23 @@
+h1 {
+	text-align: left;
+	font-size: 4em;
+	color: red;
+	font-family: Georgia;
+	border-radius: 25px;
+	background: grey
+}
+
+body {
+	text-size: 2em
+}
+
+form {
+	vertical-align: center;
+	text-size: 3em;
+}
+
+table {
+	border: solid 10px grey; border-radius : 30px;
+	background: Silver;
+	border-radius: 30px;
+}
